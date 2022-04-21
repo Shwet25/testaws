@@ -1,3 +1,4 @@
+"use strict";
 const execute = require("../db/db");
 
 class Login {
